@@ -16,7 +16,7 @@ body {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    background: rgba(255, 255, 255, 0.1);
+    background: rgba(48, 46, 46, 0.3);
     backdrop-filter: blur(10px);
     position: sticky;
     top: 0;
